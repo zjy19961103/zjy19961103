@@ -9,7 +9,7 @@
 
 - 🌈I Like Design and Develop. ฅ^•ﻌ•^ฅ ❤️ 🧡 💛 💚 💙 💜 🖤 🤍 🤎
 
-    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjy19961103&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+    [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zjy19961103&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- - 👋 Hi, I’m ...
 - 🔭 I’m currently working in ...
