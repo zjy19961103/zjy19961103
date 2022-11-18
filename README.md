@@ -10,9 +10,9 @@
 - 🌈 I Like Design and Develop. ฅ^•ﻌ•^ฅ ❤️ 🧡 💛 💚 💙 💜 🖤 🤍 🤎
 
 <a href="https://github.com/zjy19961103">
-<img src="https://github-readme-stats.vercel.app/api?username=zjy19961103&count_private=true&show_icons=true&theme=material-palenight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
+<img src="https://github-readme-stats.vercel.app/api?username=zjy19961103&count_private=true&show_icons=true&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
 <a href="https://github.com/zjy19961103">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjy19961103&theme=material-palenight" height="195" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjy19961103&theme=tokyonight" height="195" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
 
 <!-- - 👋 Hi, I’m ...
 - 🔭 I’m currently working in ...
