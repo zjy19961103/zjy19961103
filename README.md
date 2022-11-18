@@ -1,5 +1,6 @@
+<h2>👋 Hi there</h2>
 
-- 👋 Hi there, I'm Jeanine Zhuang (@zjy19961103) from China
+- 🎀 I'm Jeanine Zhuang (@zjy19961103) from China
 - 👀 I’m interested in Design & Develop.
 - 🌱 I’m currently learning <code>UI Design</code> <code>Three Dimensional</code> <code>Front-end</code> <code>Python</code> ...
 - 📫 Connect with me: 
@@ -9,6 +10,7 @@
 <code><a href="https://www.instagram.com/zjy19961103" target="_blank">instagram</a></code>
 - 🌈 I Like Design and Develop. ฅ^•ﻌ•^ฅ ❤️ 🧡 💛 💚 💙 💜 🖤 🤍 🤎
 
+<h2>📊 Github Status</h2>
 <a href="https://github.com/zjy19961103">
 <img src="https://github-readme-stats.vercel.app/api?username=zjy19961103&count_private=true&show_icons=true&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
 <a href="https://github.com/zjy19961103">
