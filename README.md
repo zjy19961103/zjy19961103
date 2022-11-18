@@ -2,9 +2,9 @@
 - 👀 I’m interested in Design & Develop.
 - 🌱 I’m currently learning UI Design, Front-end, Python.
 - 📫 Reach me: 
-<a href="mailto:671540566@qq.com">Email, </a>
-<a href="http://www.behance.net/zjy19961103" target="_blank">Behance, </a>
-<a href="http://twitter.com/zjy19961103" target="_blank">Twitter, </a>
+<a href="mailto:671540566@qq.com">Email</a>
+<a href="http://www.behance.net/zjy19961103" target="_blank">Behance </a>
+<a href="http://twitter.com/zjy19961103" target="_blank">Twitter</a>
 <a href="https://www.instagram.com/zjy19961103" target="_blank">instagram</a>
 
 <!-- - 👋 Hi, I’m ...
