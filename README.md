@@ -1,6 +1,6 @@
-- 👋 Hi there, I'm Jeanine Zhuang (@zjy19961103).
+- 👋 Hi there, I'm Jeanine Zhuang (@zjy19961103) from China.
 - 👀 I’m interested in Design & Develop.
-- 🌱 I’m currently learning UI Design, Front-end, Python.
+- 🌱 I’m currently learning UI Design, Three dimensional, Front-end, Python.
 - 📫 Reach me: 
 <a href="mailto:671540566@qq.com">Email</a>
 <a href="http://www.behance.net/zjy19961103" target="_blank">Behance </a>
