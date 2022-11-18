@@ -1,4 +1,4 @@
-- 👋 Hi there, I'm Jeanine Zhuang (@zjy19961103) from China.
+- 👋 Hi there, I'm Jeanine Zhuang (@zjy19961103) from China
 - 👀 I’m interested in Design & Develop.
 - 🌱 I’m currently learning UI Design, Three Dimensional, Front-end, Python.
 - 📫 Connect with me: 
