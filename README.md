@@ -1,11 +1,11 @@
 - 👋 Hi there, I'm Jeanine Zhuang (@zjy19961103) from China
 - 👀 I’m interested in Design & Develop.
-- 🌱 I’m currently learning UI Design, Three Dimensional, Front-end, Python.
+- 🌱 I’m currently learning <code>UI Design</code> <code>Three Dimensional</code> <code>Front-end</code> <code>Python</code> ...
 - 📫 Connect with me: 
-<a href="mailto:671540566@qq.com">Email</a>
-<a href="http://www.behance.net/zjy19961103" target="_blank">Behance </a>
-<a href="http://twitter.com/zjy19961103" target="_blank">Twitter</a>
-<a href="https://www.instagram.com/zjy19961103" target="_blank">instagram</a>
+<code><a href="mailto:671540566@qq.com">Email</a></code>
+<code><a href="http://www.behance.net/zjy19961103" target="_blank">Behance</a></code>
+<code><a href="http://twitter.com/zjy19961103" target="_blank">Twitter</a></code>
+<code><a href="https://www.instagram.com/zjy19961103" target="_blank">instagram</a></code>
 
 - 🌈I Like Design and Develop. ฅ^•ﻌ•^ฅ ❤️ 🧡 💛 💚 💙 💜 🖤 🤍 🤎
 
