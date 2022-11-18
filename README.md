@@ -7,7 +7,7 @@
 <a href="http://twitter.com/zjy19961103" target="_blank">Twitter</a>
 <a href="https://www.instagram.com/zjy19961103" target="_blank">instagram</a>
 
-🌈I Like Design and Develop. ฅ^•ﻌ•^ฅ ❤️ 🧡 💛 💚 💙 💜 🖤 🤍 🤎
+- 🌈I Like Design and Develop. ฅ^•ﻌ•^ฅ ❤️ 🧡 💛 💚 💙 💜 🖤 🤍 🤎
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/apizjy19961103anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
