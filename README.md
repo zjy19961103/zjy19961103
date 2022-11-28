@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in Design & Develop.
 
-- 🌱 I’m currently learning <code>UI Design</code> <code>Three Dimensional</code> <code>Front-end</code> <code>Python</code> ...
+- 🌱 I’m currently learning <code>UI Design</code> <code>Three Dimensional</code> <code>Front-End</code> <code>Python</code> ...
 
 
 <h2>📫 Connect with me</h2>
