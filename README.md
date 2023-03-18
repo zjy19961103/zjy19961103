@@ -1,10 +1,10 @@
 <h2>👋 Hi there</h2>
 
-- 🎀 I'm **Jeanine Zhuang** (@zjy19961103) from China.
+- 🎀 I'm **Jeanine Zhuang** (@zjy19961103) from China, born on November 3, 1996.
 
 - 👀 I’m interested in visual design and programming development.
 
- - 🌱 I’m currently learning <code>UI Design</code> <code>3D Modelling</code> <code>Front-End</code> <code>Python</code> <code>AI Art Generation</code> ...
+- 🌱 I’m currently learning <code>UI design</code> <code>3D modeling</code> <code>front-end</code> <code>Python</code> <code>AI art generation</code> ...
 
 
 <h2>📫 Connect with me</h2>
