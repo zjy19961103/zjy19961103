@@ -2,7 +2,7 @@
 
 - 🎀 I'm **Jeanine Zhuang** (@zjy19961103) from China.
 
-- 👀 I’m interested in Design & Develop.
+- 👀 I’m interested in visual design and programming development.
 
  - 🌱 I’m currently learning <code>UI Design</code> <code>3D Modelling</code> <code>Front-End</code> <code>Python</code> <code>AI Art Generation</code> ...
 
