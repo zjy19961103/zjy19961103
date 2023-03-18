@@ -1,11 +1,12 @@
-<h2>👋 Hi there. I’m a beginner, glad to meet everyone.</h2>
+<h2>👋 Hi there. glad to meet everyone.</h2>
 
 - 🎀 I'm **Jeanine Zhuang** (@zjy19961103) from China, born on November 3, 1996.
 
 - 👀 I’m interested in visual design and programming development.
 
-- 🌱 I’m currently learning <code>UI design</code> <code>3D modeling</code> <code>front-end</code> <code>Python</code> <code>AI art generation</code> ...
+- 🌱 I’m currently learning <code>English</code> <code>UI design</code> <code>3D modeling</code> <code>front-end</code> <code>Python</code> <code>AI art generation</code> ...
 
+- 🌏 My English is not very good, please understand.
 
 <h2>📫 Connect with me</h2>
 
