@@ -1,4 +1,4 @@
-<h2>👋 Hi there</h2>
+<h2>👋 Hi there. I’m a beginner, glad to meet everyone.</h2>
 
 - 🎀 I'm **Jeanine Zhuang** (@zjy19961103) from China, born on November 3, 1996.
 
