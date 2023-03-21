@@ -20,7 +20,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=zjy19961103&count_private=true&show_icons=true&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
 
 <a href="https://github.com/zjy19961103">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjy19961103&layout=compact&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjy19961103&layout=compact&&count_private=true&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
 
 
 
