@@ -11,9 +11,9 @@
 <h2>📫 Connect with me</h2>
 
 <code><a href="mailto:671540566@qq.com">📧Email</a></code>
+<code><a href="http://www.behance.net/zjy19961103" target="_blank">🎨Behance</a></code>
 <code><a href="http://twitter.com/zjy19961103" target="_blank">🌐Twitter</a></code>
 <code><a href="https://www.instagram.com/zjy19961103" target="_blank">📷instagram</a></code>
-<code><a href="http://www.behance.net/zjy19961103" target="_blank">🎨Behance</a></code>
 
 <h2>📊 Github Status</h2>
 <a href="https://github.com/zjy19961103">
