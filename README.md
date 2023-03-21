@@ -21,7 +21,11 @@
 <a href="https://github.com/zjy19961103">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjy19961103&theme=tokyonight" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
 
-
+<h2>📊 Github Status</h2>
+<a href="https://github.com/zjy19961103">
+<img src="https:/github-readme-stats-nine-topaz.vercel.app/api?username=zjy19961103&count_private=true&show_icons=true&theme=tokyonight" data-canonical-src="https://github-readme-stats-nine-topaz.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
+<a href="https://github.com/zjy19961103">
+<img src="https://github-readme-stats-nine-topaz.vercel.app/api/top-langs/?username=zjy19961103&theme=tokyonight" data-canonical-src="https://github-readme-stats-nine-topaz.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
 
 <!-- <a href="https://github.com/zjy19961103/zjy19961103.github.io">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=zjy19961103&repo=zjy19961103.github.io"/>
