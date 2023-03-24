@@ -14,7 +14,7 @@
 <code><a href="http://twitter.com/zjy19961103" target="_blank">🌐Twitter</a></code>
 <code><a href="https://www.instagram.com/zjy19961103" target="_blank">📷instagram</a></code>
 
-<h2>📊 Github Status</h2>
+<h2>📊 Github Activity</h2>
 <a href="https://github.com/zjy19961103">
 <img src="https://github-readme-stats.vercel.app/api?username=zjy19961103&count_private=true&show_icons=true&theme=tokyonight&hide_border=true" data-canonical-src="https://github-readme-stats.vercel.app/api?username=zjy19961103&amp;title_color=1abc9c&amp;icon_color=1abc9c&amp;text_color=798795&amp;bg_color=2c3e50" style="max-width: 100%;"></a>
 
