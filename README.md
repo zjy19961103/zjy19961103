@@ -6,6 +6,8 @@
 
 - 🌱 I’m currently learning <code>English</code> <code>UI design</code> <code>3D modeling</code> <code>front-end</code> <code>Python</code> <code>AI art generation</code> ...
 
+<a title="https://www.edgejean.com" role="link" target="_blank" rel="noopener noreferrer nofollow" class="text-bold" href="https://www.edgejean.com">**Jeanine Zhuang**</a>
+
 <!-- - 🌏 My English is not very good, please understand. -->
 
 <h2>📫 Connect with me</h2>
