@@ -10,8 +10,9 @@
 
 <h2>📫 Connect with me</h2>
 <code><a href="mailto:671540566@qq.com">📧Email</a></code>
-<code><a href="http://www.behance.net/zjy19961103" target="_blank">🎨Behance</a></code>
-<code><a href="http://twitter.com/zjy19961103" target="_blank">🌐Twitter</a></code>
+<code><a href="https://www.behance.net/zjy19961103" target="_blank">🎨Behance</a></code>
+<code><a href="https://dribbble.com/zjy19961103" target="_blank">🎨Dribbble</a></code>
+<code><a href="https://twitter.com/zjy19961103" target="_blank">🌐Twitter</a></code>
 <code><a href="https://www.instagram.com/zjy19961103" target="_blank">📷instagram</a></code>
 
 <h2>📊 Github Activity</h2>
