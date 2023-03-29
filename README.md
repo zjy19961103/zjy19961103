@@ -4,7 +4,7 @@
 
 - 👀 I’m interested in visual design and programming development.
 
-- 🌱 I’m currently learning <code>UI design</code> <code>3D modeling</code> <code>front-end</code> <code>Python</code> <code>AI art generation</code>
+- 🌱 I’m currently learning <code>UI Design</code> <code>3D Modeling</code> <code>Front-End</code> <code>Python</code> <code>AI Art Generation</code>
 
 <!-- - 🌏 My English is not very good, please understand. -->
 
