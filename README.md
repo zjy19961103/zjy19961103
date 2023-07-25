@@ -1,6 +1,6 @@
 <h2>👋 Hi there, nice to meet you~</h2>
 
-- 🎀 I'm <a href="http://www.edgejean.com" target="_blank">**Jeanine**</a> (@zjy19961103) from China, born on November 3, 1996.
+- 🎀 I'm <a href="http://www.edgejean.com" target="_blank">**Jeanine Zhuang**</a> (@zjy19961103) from China, born on November 3, 1996.
 
 - 👀 I’m interested in visual design and programming development.
 
