@@ -9,11 +9,30 @@
 <!-- - 🌏 My English is not very good, please understand. -->
 
 <h2>📫 Connect with me</h2>
-<code><a href="mailto:671540566@qq.com">📧Email</a></code>
+<!-- <code><a href="mailto:671540566@qq.com">📧Email</a></code>
 <code><a href="https://www.behance.net/zjy19961103" target="_blank">🎨Behance</a></code>
 <code><a href="https://dribbble.com/zjy19961103" target="_blank">🎨Dribbble</a></code>
 <code><a href="https://twitter.com/zjy19961103" target="_blank">🌐Twitter</a></code>
-<code><a href="https://www.instagram.com/zjy19961103" target="_blank">📷instagram</a></code>
+<code><a href="https://www.instagram.com/zjy19961103" target="_blank">📷instagram</a></code> -->
+
+<a href="https://github.com/zjy19961103" target="_blank" rel="noreferrer">
+  <img src="/icon/GitHub.png" width="40" height="40"/>
+</a>
+<a href="https://www.behance.net/zjy19961103" target="_blank" rel="noreferrer">
+  <img src="/icon/Behance.png" width="40" height="40"/>
+</a>
+<a href="https://dribbble.com/zjy19961103" target="_blank" rel="noreferrer">
+  <img src="/icon/Dribbble.png" width="40" height="40"/>
+</a>
+<a href="https://twitter.com/zjy19961103" target="_blank" rel="noreferrer">
+  <img src="/icon/Twitter.png" width="40" height="40"/>
+</a>
+<a href="https://www.instagram.com/zjy19961103" target="_blank" rel="noreferrer">
+  <img src="/icon/instagram.png" width="40" height="40"/>
+</a>
+<a href="https://space.bilibili.com/2104602" target="_blank" rel="noreferrer">
+  <img src="/icon/bilibili.png" width="40" height="40"/>
+</a>
 
 <h2>📊 Github Activity</h2>
 <a href="https://github.com/zjy19961103">
