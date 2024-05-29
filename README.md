@@ -15,7 +15,7 @@
 <code><a href="https://twitter.com/zjy19961103" target="_blank">🌐Twitter</a></code>
 <code><a href="https://www.instagram.com/zjy19961103" target="_blank">📷instagram</a></code> -->
 
-<a href="mailto:671540566@qq.com" target="_blank" rel="noreferrer">
+<a href="mailto:jeanine@edgejean.com" target="_blank" rel="noreferrer">
   <img src="/icon/Mail.png" width="40" height="40"/>
 </a>
 <a href="https://github.com/zjy19961103" target="_blank" rel="noreferrer">
